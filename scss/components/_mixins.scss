@@ -1,0 +1,7 @@
+@use '../custom' as *;
+
+@mixin bold
+{
+    font-weight:600;
+}
+

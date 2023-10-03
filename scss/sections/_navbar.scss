@@ -1,0 +1,24 @@
+@use '../custom' as *;
+@use '../components/mixins' as *;
+
+.navmenu
+{
+    li
+    {
+        padding:0 0.5rem;
+   
+    a
+    {   color:$secondary!important;
+        @include bold
+    }
+
+    button
+    {
+        @include bold
+        
+    }
+    
+    }
+
+
+}

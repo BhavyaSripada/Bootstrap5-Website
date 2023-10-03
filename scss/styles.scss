@@ -1,0 +1,15 @@
+@use 'custom';
+
+@use 'sections/companies';
+@use 'sections/_intro-section';
+@use 'sections/testimonials';
+@use 'sections/services';
+@use 'sections/navbar';
+@use 'sections/faq';
+@use 'sections/footer';
+
+
+@use 'components/animations';
+@use 'components/buttons';
+@use 'components/mixins';
+@use 'components/typography';

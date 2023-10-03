@@ -1,0 +1,9 @@
+@use '../custom' as *;
+
+.box-1
+{
+    .row{
+       display:block;
+       width:75%;
+    }
+}
